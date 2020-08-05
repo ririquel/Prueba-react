@@ -3,7 +3,7 @@ import { AddCategory } from "./components/AddCategory";
 import { GifGrid } from "./components/GifGrid";
 
 export const GifExpertApp = () => {
-  const [categories, setCategories] = useState(["nina agdal hot"]);
+  const [categories, setCategories] = useState(["gal gadot"]);
 
   //   const handleAdd = () => {
   //     // setCategories(["Centella", ...categories]);
